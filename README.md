@@ -1,3 +1,6 @@
 # hello-world
 Just another repository
-Hi my name is Kyle. I am taking the OPS435 courses this semester. 
+
+Hi my name is Kyle Crasto. 
+I am in OPS435 Section A. 
+
